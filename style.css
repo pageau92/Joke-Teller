@@ -53,7 +53,7 @@ button {
 
 button:hover {
   filter: brightness(95%);
-}
+} 
 
 button:active {
   transform: scale(0.98);
